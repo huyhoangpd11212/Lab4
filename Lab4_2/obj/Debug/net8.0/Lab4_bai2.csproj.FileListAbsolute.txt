@@ -1,0 +1,14 @@
+C:\Users\huyho\source\repos\Lab4\Lab4_bai2\obj\Debug\net8.0\Lab4_bai2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huyho\source\repos\Lab4\Lab4_bai2\obj\Debug\net8.0\Lab4_bai2.AssemblyInfoInputs.cache
+C:\Users\huyho\source\repos\Lab4\Lab4_bai2\obj\Debug\net8.0\Lab4_bai2.AssemblyInfo.cs
+C:\Users\huyho\source\repos\Lab4\Lab4_bai2\obj\Debug\net8.0\Lab4_bai2.csproj.CoreCompileInputs.cache
+C:\Users\huyho\source\repos\Lab4\Lab4_bai2\bin\Debug\net8.0\Lab4_bai2.exe
+C:\Users\huyho\source\repos\Lab4\Lab4_bai2\bin\Debug\net8.0\Lab4_bai2.deps.json
+C:\Users\huyho\source\repos\Lab4\Lab4_bai2\bin\Debug\net8.0\Lab4_bai2.runtimeconfig.json
+C:\Users\huyho\source\repos\Lab4\Lab4_bai2\bin\Debug\net8.0\Lab4_bai2.dll
+C:\Users\huyho\source\repos\Lab4\Lab4_bai2\bin\Debug\net8.0\Lab4_bai2.pdb
+C:\Users\huyho\source\repos\Lab4\Lab4_bai2\obj\Debug\net8.0\Lab4_bai2.dll
+C:\Users\huyho\source\repos\Lab4\Lab4_bai2\obj\Debug\net8.0\refint\Lab4_bai2.dll
+C:\Users\huyho\source\repos\Lab4\Lab4_bai2\obj\Debug\net8.0\Lab4_bai2.pdb
+C:\Users\huyho\source\repos\Lab4\Lab4_bai2\obj\Debug\net8.0\Lab4_bai2.genruntimeconfig.cache
+C:\Users\huyho\source\repos\Lab4\Lab4_bai2\obj\Debug\net8.0\ref\Lab4_bai2.dll
